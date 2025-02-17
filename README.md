@@ -29,3 +29,6 @@
   - [Prisma](https://www.prisma.io/)
   - [Stripe](https://stripe.com/)
   - [OpenAI](https://openai.com/)
+
+
+![mealplangeneratorClipchamp_1739782349348-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/f03c21e2-bc1b-452e-8473-9d7eed25735d)
